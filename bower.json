@@ -1,0 +1,17 @@
+{
+  "name": "lay",
+  "version": "0.0.1",
+  "authors": [
+    "antoniozzo <info@antoniorizzo.com>"
+  ],
+  "homepage": "https://github.com/antoniozzo/lay",
+  "description": "Awesome layout helpers using css tables",
+  "main": "lay.less",
+  "keywords": [
+    "less",
+    "layout",
+    "grid",
+    "table"
+  ],
+  "license": "MIT"
+}
